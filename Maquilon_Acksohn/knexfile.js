@@ -11,7 +11,8 @@ module.exports = {
       host: '127.0.0.1',
       user: 'root',
       password: '',
-      database: 'cloud'
+      //database: 'cloud'
+      database: 'acksohn'
     },
     migrations:{
       directory: './migrations'
